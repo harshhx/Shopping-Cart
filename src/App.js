@@ -10,25 +10,25 @@ class App extends React.Component {
             products: [
                 {
 
-                    price: 99,
+                    price: 500,
                     title: 'Watch',
                     qty: 2,
-                    img: '',
+                    img: 'https://images.unsplash.com/photo-1533139502658-0198f920d8e8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=381&q=80',
                     id: 1
 
                 },
                 {
-                    price: 9999,
+                    price: 10000,
                     title: 'Mobile Phone',
                     qty: 1,
-                    img: '',
+                    img: 'https://images.unsplash.com/photo-1567581935884-3349723552ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80',
                     id: 2
                 },
                 {
-                    price: 9,
+                    price: 15,
                     title: 'Pen',
                     qty: 5,
-                    img: '',
+                    img: 'https://images.unsplash.com/photo-1585336261022-680e295ce3fe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80',
                     id: 3
                 }
             ]
